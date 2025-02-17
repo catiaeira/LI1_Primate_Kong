@@ -1,4 +1,6 @@
-# Laboratórios de Informática I
+# Laboratórios de Informática I (20/20)
+
+Um projeto desenvolvido em haskell para a cadeira de Laboratórios de Informática I inspirado no jogo DonkeyKong.
 
 ## Executável
 
