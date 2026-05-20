@@ -1,4 +1,9 @@
-# Laboratórios de Informática I (20/20)
+# Laboratórios de Informática I - Projeto 23/24
+---
+### Nota: 20/20 🌟
+---
+##### Grupo: Andreia Cardoso (a106915), Cátia Eira (a107382)
+---
 
 Um projeto desenvolvido em haskell para a cadeira de Laboratórios de Informática I inspirado no jogo DonkeyKong.
 
